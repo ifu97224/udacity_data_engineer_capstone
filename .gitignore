@@ -1,9 +1,0 @@
-*.env
-*.bak
-**/.idea
-.DS_Store
-.ipynb_checkpoints/
-__pycache__/
-build/
-dist/
-scratch/
